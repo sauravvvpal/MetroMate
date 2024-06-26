@@ -2,7 +2,7 @@
 
 
 => Description:
-The Metro-App is a C++ program designed to provide users with information about the Delhi Metro system. It allows users to input their source and destination metro stations and then displays the shortest route between the two stations, along with the corresponding fare. The program utilizes graph and heap data structures, as well as various algorithms, to achieve this functionality.
+The MetroMateis a C++ program designed to provide users with information about the Delhi Metro system. It allows users to input their source and destination metro stations and then displays the shortest route between the two stations, along with the corresponding fare. The program utilizes graph and heap data structures, as well as various algorithms, to achieve this functionality.
 
 => Functionality:
 
@@ -21,7 +21,7 @@ Route Display: The program displays the metro route that the user should take to
 Metro Map: The application provides a metro map to aid commuters in navigating the metro system more effectively.
 
 => Implementation:
-The Metro-App is implemented using Java programming language. It utilizes the following key components and algorithms:
+The Metro-App is implemented using C++ programming language. It utilizes the following key components and algorithms:
 
 Graph Data Structure: The stations are represented as nodes in the graph, and the connections between stations are represented as edges.
 
