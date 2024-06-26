@@ -2,7 +2,7 @@
 
 
 => Description:
-The Metro-App is a Java program designed to provide users with information about the Delhi Metro system. It allows users to input their source and destination metro stations and then displays the shortest route between the two stations, along with the corresponding fare. The program utilizes graph and heap data structures, as well as various algorithms, to achieve this functionality.
+The Metro-App is a C++ program designed to provide users with information about the Delhi Metro system. It allows users to input their source and destination metro stations and then displays the shortest route between the two stations, along with the corresponding fare. The program utilizes graph and heap data structures, as well as various algorithms, to achieve this functionality.
 
 => Functionality:
 
